@@ -9,4 +9,4 @@ Java NetBeans
 // NÃO DEVE IR RETORNO(nem void).
 // Deve ter o mesmo nome EXATO da classe.
 // nao existe a palavra constructor em java.
-  
+// ao usar o override voce sobrescreve o metodo da classe pai 
