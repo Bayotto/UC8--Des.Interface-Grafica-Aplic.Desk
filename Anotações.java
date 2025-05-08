@@ -19,3 +19,5 @@ Java NetBeans
         System.out.println("Digite o seu nome:");
         nome = sc.nextLine();
          System.out.println("O nome do usuario é:" + nome);
+
+// ao usar o static voce nao precisa instaciar o metodo pois ele vai pertencer a classe caso eu fizer uma variavel fora da classe, coloque static na frente da variavel
