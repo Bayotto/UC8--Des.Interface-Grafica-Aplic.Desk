@@ -1,7 +1,7 @@
 Java NetBeans
 // SEMPRE USAR PONTO E VIRGULA NO FINAL DE CADA LINHA;
   
-// caso queira rodar o codigo aperta alt F6 ou se for um notebook diferente ou pc aperte fn alt F6;
+// caso queira rodar o codigo aperta shift F6 ou se for um notebook diferente ou pc aperte fn shift F6;
   
 // se voce segurar ctrl em cima do metodo ele mostra informações e caso clique ele irá ate esse metodo.
   
