@@ -1,6 +1,7 @@
 Java NetBeans
 // SEMPRE USAR PONTO E VIRGULA NO FINAL DE CADA LINHA;
-  
+// ao usar o alt insert, ele ira inserir varias funções como por exemplo getters e setters ou constructor.
+// ao usar o ctrl space, ele vai auto preencher com o que ja sou possui no java ou no seu codigo.
 // caso queira rodar o codigo aperta shift F6 ou se for um notebook diferente ou pc aperte fn shift F6;
   
 // se voce segurar ctrl em cima do metodo ele mostra informações e caso clique ele irá ate esse metodo.
@@ -20,4 +21,4 @@ Java NetBeans
         nome = sc.nextLine();
          System.out.println("O nome do usuario é:" + nome);
 
-// ao usar o static voce nao precisa instaciar o metodo pois ele vai pertencer a classe caso eu fizer uma variavel fora da classe, coloque static na frente da variavel
+// ao usar o static voce nao precisa instaciar o metodo pois ele vai pertencer a classe. exemplo: caso eu fizer uma variavel fora da classe, coloque static na frente da variavel
