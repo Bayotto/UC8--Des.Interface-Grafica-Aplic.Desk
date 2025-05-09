@@ -15,7 +15,7 @@ Java NetBeans
         Scanner sc = new Scanner(System.in);
    // Fecha o objeto Scanner para liberar os recursos utilizados
         sc.close();
- // Usar nextLine caso eu queira pedir para o usuario falar algo por exemplo um nome
+ // Usar nextLine caso eu queira pedir para o usuario falar algo como por exemplo um nome
         System.out.println("Digite o seu nome:");
         nome = sc.nextLine();
          System.out.println("O nome do usuario é:" + nome);
