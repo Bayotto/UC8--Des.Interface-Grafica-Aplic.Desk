@@ -22,3 +22,7 @@ Java NetBeans
          System.out.println("O nome do usuario é:" + nome);
 
 // ao usar o static voce nao precisa instaciar o metodo pois ele vai pertencer a classe. exemplo: caso eu fizer uma variavel fora da classe, coloque static na frente da variavel
+// se usar this.dispose ela irá fechar a tela.
+// ao usar o setLocationRelativeTo faz a tela abrir centralizada com o monitor.
+// 
+
